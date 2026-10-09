@@ -73,7 +73,7 @@ No `pip install` command or third-party package is required.
 ### Clone from GitHub (after you publish your repository)
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/py-password-generator.git
+git clone https://github.com/Fafali1234557/py-password-generator.git
 cd py-password-generator
 python password_generator.py
 ```
