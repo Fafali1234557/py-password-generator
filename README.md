@@ -78,7 +78,7 @@ cd py-password-generator
 python password_generator.py
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username. If you're using macOS or Linux, run `python3` instead of `python` when necessary.
+Replace `Fafali1234557` with your GitHub username. If you're using macOS or Linux, run `python3` instead of `python` when necessary.
 
 ## 💻 Example interaction
 
